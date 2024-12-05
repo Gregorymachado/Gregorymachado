@@ -5,7 +5,7 @@
 - Software Developer & Designer 🎨💻 
 - Backend & Frontend Development 💻🔧 
 - 3D Modeling & Game Development 🎮🎮 
-- Intermediate English Speaker 🗣️ 
+- English Speaker 🗣️ 
 - Passionate about Hardware & Web Development 🌐💡 
 - Brazilian 🇧🇷
 
