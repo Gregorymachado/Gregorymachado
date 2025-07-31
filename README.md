@@ -1,6 +1,6 @@
 ## Let your fire ignite your dreams 
 
-### 🍀About Me🍀<img align='right' src="https://64.media.tumblr.com/62b8d2b50323a8eeac363b82eca7b462/tumblr_ox3cdrH7501r6q7tio1_r1_540.gif" width="200">
+### 🍀About Me🍀
 
 - Software Developer & Designer 🎨💻 
 - Backend & Frontend Development 💻🔧 
