@@ -1,11 +1,11 @@
 ## Let your fire ignite your dreams 
 
 ### 🍀About Me🍀
-
-- Software Developer & Designer 🎨💻 
-- Backend & Frontend Development 💻🔧 
-- 3D Modeling & Game Development 🎮🎮 
-- English Speaker 🗣️ 
+- Automation Engineering student ⚙️
+- Software Developer & Designer 🎨
+- Backend & Frontend Development 🔧 
+- 3D Modeling & Game Development 🎮
+- English Speaker 🗣️
 - Passionate about Hardware & Web Development 🌐💡 
 - Brazilian 🇧🇷
 
