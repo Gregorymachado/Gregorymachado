@@ -3,10 +3,9 @@
 ### 🍀About Me🍀
 - Automation Engineering student ⚙️
 - Software Developer & Designer 🎨
-- Backend & Frontend Development 🔧 
+- Proficient in Backend & Frontend Development 🔧 
 - 3D Modeling & Game Development 🎮
-- English Speaker 🗣️
-- Passionate about Hardware & Web Development 🌐💡 
+- Intermediate English Speaker 🗣️
 - Brazilian 🇧🇷
 
 ### Languages  
