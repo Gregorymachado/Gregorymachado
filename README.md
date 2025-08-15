@@ -1,11 +1,11 @@
 ## Let your fire ignite your dreams 
 
 ### 🍀About Me🍀
-- Automation Engineering student ⚙️
-- Software Developer & Designer 🎨
-- Proficient in Backend & Frontend Development 🔧 
-- 3D Modeling & Game Development 🎮
-- Intermediate English Speaker 🗣️
+- Automation Engineering student⚙️
+- Proficient Software Developer🔧
+- Proficient in Backend Development🔧 
+- 3D Modeling & Game Development🎮
+- Intermediate English Speaker🗣️
 - Brazilian 🇧🇷
 
 ### Languages  
