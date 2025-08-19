@@ -1,6 +1,5 @@
-## Let your fire ignite your dreams 
 
-### 🍀About Me🍀
+### About Me
 - Automation Engineering student⚙️
 - Proficient Software Developer🔧
 - Proficient in Backend Development🔧 
