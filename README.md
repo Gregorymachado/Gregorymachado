@@ -2,8 +2,7 @@
 ### About Me
 - Automation Engineering student⚙️
 - Proficient Software Developer🔧
-- Proficient in Backend Development🔧 
-- 3D Modeling & Game Development🎮
+- Proficient in Backend Development🔧
 - Intermediate English Speaker🗣️
 - Brazilian 🇧🇷
 
